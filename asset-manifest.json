@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wheres-waldo/static/css/main.3ada83cb.chunk.css",
+    "main.js": "/wheres-waldo/static/js/main.306bb083.chunk.js",
+    "main.js.map": "/wheres-waldo/static/js/main.306bb083.chunk.js.map",
+    "runtime-main.js": "/wheres-waldo/static/js/runtime-main.21f80316.js",
+    "runtime-main.js.map": "/wheres-waldo/static/js/runtime-main.21f80316.js.map",
+    "static/js/2.66cd3046.chunk.js": "/wheres-waldo/static/js/2.66cd3046.chunk.js",
+    "static/js/2.66cd3046.chunk.js.map": "/wheres-waldo/static/js/2.66cd3046.chunk.js.map",
+    "index.html": "/wheres-waldo/index.html",
+    "precache-manifest.9b98a1e2adbcbb3d704b69a44ee866aa.js": "/wheres-waldo/precache-manifest.9b98a1e2adbcbb3d704b69a44ee866aa.js",
+    "service-worker.js": "/wheres-waldo/service-worker.js",
+    "static/css/main.3ada83cb.chunk.css.map": "/wheres-waldo/static/css/main.3ada83cb.chunk.css.map",
+    "static/js/2.66cd3046.chunk.js.LICENSE.txt": "/wheres-waldo/static/js/2.66cd3046.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21f80316.js",
+    "static/js/2.66cd3046.chunk.js",
+    "static/css/main.3ada83cb.chunk.css",
+    "static/js/main.306bb083.chunk.js"
+  ]
+}
