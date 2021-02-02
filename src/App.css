@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+}
+
+#app {
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  height: 100vh;
+}
+
+#names {
+  display: flex;
+}
+
+.name {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.linethrough {
+  text-decoration: line-through;
+}
+
+#picture {
+  z-index: 1;
+}
+
+#frame {
+  position: relative;
+  overflow: hidden;
+}
+
+#search-box-frame {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  z-index: 2;
+}
+
+#search-box {
+  height: 45px;
+  width: 45px;
+  border-color: red;
+  border-style: solid;
+}
+
+.shown {
+  display: block;
+}
+
+.hidden {
+  display: none;
+}
